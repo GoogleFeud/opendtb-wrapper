@@ -262,4 +262,4 @@ If the provided value is a type, category or difficulty. Useful when checking us
 
 Version 2.0.0:
 
-Updated whole package. Everything has changed.
+- Updated whole package. Everything has changed.
