@@ -1,0 +1,52 @@
+{
+  "_from": "opendtb-wrapper",
+  "_id": "opendtb-wrapper@1.4.1",
+  "_inBundle": false,
+  "_integrity": "sha512-CIHl6lWO9dc/GZtjyoBUFoT7RvfiJ0UcxsXB1/WqzOBMoQ4QNAsZdM18NkboG3U8M+R9n9EU/XogYdMY8vbyVg==",
+  "_location": "/opendtb-wrapper",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "opendtb-wrapper",
+    "name": "opendtb-wrapper",
+    "escapedName": "opendtb-wrapper",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/opendtb-wrapper/-/opendtb-wrapper-1.4.1.tgz",
+  "_shasum": "9d5ecd90eab31405403f880885dd92dc76bc8bfe",
+  "_spec": "opendtb-wrapper",
+  "author": {
+    "name": "GoogleFeud"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "he": "^1.1.1",
+    "node-fetch": "^2.3.0"
+  },
+  "deprecated": false,
+  "description": "A simple NPM module that interacts with the Open Trivia Database API.",
+  "devDependencies": {},
+  "keywords": [
+    "Trivia",
+    "Questions",
+    "True/False"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "name": "opendtb-wrapper",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GoogleFeud/opendtb-wrapper/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.5.0"
+}
